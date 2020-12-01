@@ -1,4 +1,4 @@
-# ejercicio-Microservicios BeamarTest
+# ejercicio-Microservicios
 Microservicios de entregas y planificación construidos con Spring Boot.
 
 ### Requerimientos para ejecución
